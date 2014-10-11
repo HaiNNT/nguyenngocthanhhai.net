@@ -19,7 +19,17 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('welcome_message');
+        $DB =  $this->load->database("default", TRUE);
+        // $DB->query("Insert into table(Information) values(NULL ,'HaiNNT',21)");
+        $DB->query("INSERT INTO infomation VALUES (NULL, 'HaiNNT', '23')");
+        $query_str = "Select * from infomation";
+        $query = $DB->query($query_str);
+        $result = $query->row_array();
+        $result = $query->row_array();
+        print_r($result);
+        die();
+        $data["info"] = $result;
+        $this->load->view('welcome_message', $data);
 	}
 }
 

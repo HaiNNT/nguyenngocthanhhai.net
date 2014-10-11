@@ -76,7 +76,7 @@
 
 <body>
 	<div class="container">
-		<h1>Xin chào!<br/>Bạn có nghĩ là tôi rất đẹp trai không?</h1>
+		<h1>Xin chào!<br/><?= $info ?> có nghĩ là tôi rất đẹp trai không?</h1>
 		<div class="row">
 			<a id="co" class="nice-button free" onclick="ihiusdhfiusdhfaosfausgfiagiyasduih();" >Có</a>
 			<a id="khong" class="nice-button free red" onclick="zxciaushdiGIGFOUS();" >Không</a>
