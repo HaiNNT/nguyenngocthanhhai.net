@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d9625ecc-a856-4071-bdfd-daa7f9b08502" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/welcome_message.php" afterPath="$PROJECT_DIR$/application/views/welcome_message.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="nguyenngocthanhhai.net.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,8 +38,8 @@
       <file leaf-file-name="welcome_message.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/views/welcome_message.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15582192" vertical-offset="1184" max-vertical-offset="2550">
-              <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="76" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.24315068" vertical-offset="1184" max-vertical-offset="2550">
+              <caret line="78" column="26" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="39" />
               <folding>
                 <element signature="n#style#0;n#h1#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -320,12 +319,12 @@
       <workItem from="1412564534372" duration="852000" />
       <workItem from="1412591422245" duration="35000" />
       <workItem from="1412603910930" duration="55000" />
-      <workItem from="1412989948664" duration="3494000" />
+      <workItem from="1412989948664" duration="4095000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4436000" />
+    <option name="totallyTimeSpent" value="5037000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -502,8 +501,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/welcome_message.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15582192" vertical-offset="1184" max-vertical-offset="2550">
-          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="76" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.24315068" vertical-offset="1184" max-vertical-offset="2550">
+          <caret line="78" column="26" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="39" />
           <folding>
             <element signature="n#style#0;n#h1#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
