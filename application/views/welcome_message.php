@@ -139,6 +139,7 @@
 		});
 	}
 	</script>
+<div><?= JENKINS_BUILD_NUMBER ?> <br> <?= JENKINS_REVISION_NUMBER ?></div>
 </body>
 </html>
 
